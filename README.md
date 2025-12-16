@@ -41,7 +41,8 @@ A journalism-style technical article that explains satellite internet technology
 ## 🌐 How to View This Portfolio
 
 All articles are published using GitHub Pages and can be read online at:  
-🔗 https://nagaveni2003.github.io
+🔗 https://nagaveni2003.github.io/Articles-pages/
+
 
 Each article is written with a focus on clarity, accuracy, and reader understanding.
 

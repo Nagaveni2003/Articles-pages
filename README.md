@@ -14,7 +14,8 @@ I am an Information Science Engineering graduate with a strong interest in techn
 
 📌 **Maharashtra’s Starlink Partnership Signals a New Chapter for Rural Connectivity**  
 A journalism-style technical article that explains satellite internet technology, connectivity challenges in remote regions, and the broader policy and social impact.  
-👉 Read here: https://nagaveni2003.github.io/starlink.html
+👉 Read here: 👉 Read here: https://nagaveni2003.github.io/Articles-pages/starlink.html
+
 
 ---
 
